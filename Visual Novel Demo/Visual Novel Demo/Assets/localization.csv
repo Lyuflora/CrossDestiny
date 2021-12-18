@@ -1,0 +1,242 @@
+Key,Description,Standard,ENG
+SAY.Gem.1.克洛托,,祝贺你，成功改变了命运。,Congratulations
+SAY.Gem.2.GEM,,太感谢你了,Thank you so much!!
+SAY.Gem.28.GEM,,被一个恶棍拥有，流入黑市，或者被烧成灰烬，这太可怕了,Owned by a villain
+SAY.Gem.3.克洛托,,所以我借给你编织命运的力量。,So I lend you the power to weave destiny
+SAY.Gem.18.克洛托,,作为对你帮助的交换...,In exchange for helping you...
+SAY.Gem.19.克洛托,,我会给你一段时间享受你在博物馆的生活，但剩下时间的是属于我的了。,I will give you some time to enjoy your life in the museum
+SAY.Gem.26.,,某一天——,One day
+SAY.Gem.35.,,又有新朋友了,New friends again
+SAY.Gem.37.,,克洛托这招真是屡试不爽,Croto's trick is really time-tested
+SAY.Gem.17.,,看着周围一堆的宝石,Looking at the piles of gems
+SAY.Gem.39.,,你感觉自己再也出不去了,you feel like you can’t get out anymore
+SAY.Guard.8.,,深夜，图书馆二层，储藏室门口。,Late at night
+SAY.Guard.112.守卫,,我是一个守卫。,I am a guard
+SAY.Guard.248.克洛托,,我可以帮你加快时间，你想直接进入选择吗,I can help you speed up the time
+MENU.Guard.237,,直接进入选择,Sure
+MENU.Guard.247,,不用了，谢谢,No thanks
+SAY.Guard.121.,,左侧口袋中有一剂{b}药粉{/b}。,There is a dose of powder in the left pocket
+SAY.Guard.14.,,淡淡的草药香，提神醒脑。,This poison has a slight herbal fragrance
+SAY.Guard.118.,,谨慎！感冒患者切忌与{b}酒{/b}同时服用,Cautious! Cold patients should not take it with alcohol at the same time
+SAY.Guard.251.,,或可引发严重的头晕、无力、意识混乱, or they'll experience a period of drowsiness and confusion
+SAY.Guard.114.守卫,,妻子长得很漂亮。,My wife is very beautiful
+SAY.Guard.119.守卫,,她最近一直在家，但是她得了流感。,She has been at home recently
+SAY.Guard.228.守卫,,有人传染给了她，而且他也是一个守卫。,Someone infected her and he is also a guard
+SAY.Guard.255.守卫,,我不会放过他的，我有一个间接报复的方法,This isn't the end.
+SAY.Guard.229.守卫,,如果那个护士从他手底下逃跑\n\n,If the nurse escapes from his surveillance
+SAY.Guard.104.守卫,,那么老板看到他醉成那样{w=1.0s}，不用经过我的手，就能让他直接滚蛋。,The boss would think he is so drunk and kick him out
+MENU.Guard.19,,下楼,Go to teh first floor
+SAY.Guard.31.,,最有可能的是位置是书房。,The most likely hiding place is the study room
+SAY.Guard.166.,,但老板怕有人私吞，除了他没人能进去。,But the boss is afraid that someone will embezzle the property
+SAY.Guard.32.守卫,,过道。,Walk though the aisle
+MENU.Guard.68,,去前面看看,Go ahead
+MENU.Guard.47,,继续巡视,Keep patrolling
+SAY.Guard.103.,,一张木桌, A wooden table
+MENU.Guard.50,,检视桌子,View table
+SAY.Guard.53.守卫,,桌上放着一桶新鲜的啤酒和数个啤酒杯。,There is a barrel of fresh beer and several beer glasses on the table
+SAY.Guard.169.,,守卫们没事的时候来这里小酌一杯提神。,The guards come here for a refreshing drink when they are bored
+MENU.Guard.54,,继续巡视,Keep patrolling
+SAY.Guard.56.守卫,,后门,The back door
+SAY.Guard.59.,,门外有了响动，你回头一看，下一班轮岗的守卫来了。,There is a noise outside the door. You look back and see that 
+MENU.Guard.84,,上前一步,Step forward
+SAY.Guard.70.,,图书馆的正厅除了中间的一块面积是空出来的，其余密布着高耸的书架。,Except for the area in the middle of the main hall of the library
+SAY.Guard.252.,,上方悬挂着华丽的吊灯，亮得有些刺眼,There is a gorgeous chandelier hanging above
+SAY.Guard.95.守卫,,噢....,Oh...
+SAY.Guard.226.守卫,,就是他。,It's him
+SAY.Guard.87.Fred,,嘿，说你呢！到点了，赶紧走。,Hey! It's time
+SAY.Guard.96.,,你走开了，,You go away
+SAY.Guard.225.,,现在这里没有别人。,No one else here now
+MENU.Guard.132,,靠近桌子,Walk towards the table
+MENU.Guard.133,,往杯中加入药,Pour the powder into the glasses
+MENU.Guard.134,,不加,No
+SAY.Guard.136.,,我将一些药剂倒入每个酒杯。,I pour the powder into the beer glasses
+SAY.Guard.138.守卫,,算了。这次放他一马,Never mind
+SAY.Guard.168.守卫,,人生在世，没什么不能忍的。,There is nothing unbearable in life
+SAY.Guard.139.守卫,,我离开了图书馆。,I left the library
+SAY.Guard.235.守卫,,我感觉好像跳过了什么？,I feel like I skipped something?
+SAY.Guard.249.克洛托,,你会直接进入选择的阶段,You will directly enter the choices
+SAY.Guard.241.守卫,,老板命令我看守这个女孩,The boss ordered me to guard this girl
+SAY.Guard.242.守卫,,并拷问出月光宝石的下落。,And tortured the whereabouts of the moonlight gem
+SAY.Guard.243.守卫,,可要说那女孩嘴可真严，几天了都没有招,---
+SAY.Guard.244.守卫,,算了，在交班之前我还有别的事要确认。,Forget it
+MENU.Guard.245,,检查随身物品,Check your spocket
+SAY.Thief.186.,,宝石会藏在哪里呢...,Where it could be hidden...
+SAY.Thief.259.不重要的守卫 B,,是谁！,Who is it!
+SAY.Thief.7.,,我一瞬间闪身躲了起来，纵身一跃，趴在房梁上。,I dodged and hid for a moment
+SAY.Thief.107.,,吊灯上的玻璃珠子反射着璀璨的光线，在月光的照拂下更是莹莹发光。,The glass beads on the chandelier reflect the bright light
+SAY.Thief.13.,,风险太大，万一引来守卫，我很难脱身。,Too risky. If the guards are attracted
+SAY.Thief.40.,,要不要用钩锁打破酒瓶，分散他们的注意...,Should I break the bottle with a hook to distract them
+MENU.Thief.257,,不砸,No
+MENU.Thief.258,,砸破酒瓶,Break the glasses
+SAY.Thief.246.,,现在随时都有被发现的危险，,Now I might be discovered at any time
+SAY.Thief.247.,,先进电闸房把大厅的电路关掉，这样在黑暗中就能自由行动了,First enter the switch room and turn off the circuit in the hall
+SAY.Thief.262.小偷,,找到了，开关就在这里。,Found it
+MENU.Thief.222,,关闭电闸,Turn off the switch
+MENU.Thief.169,,先去书房,Go to the study first
+MENU.Thief.170,,先找电闸房,Go to the switch room first
+SAY.Thief.263.小偷,,据说这里有一块宝石，可以换一大笔筹码,
+SAY.Thief.264.小偷,,但是麻烦的是这些看守的家伙,
+SAY.Thief.265.小偷,,根据我的经验，宝石藏在二层书房可能性比较大。,I guess the gem is more likely to be hidden in the study on the second floor. Rich people normaly do this.
+SAY.Thief.266.小偷,,其他的房间都被这些守卫搜过了，剩下的可能是在一层的大厅中。,The other rooms have been searched by these guards
+MENU.Thief.114,,在储存间等待时机,Wait in the room
+MENU.Thief.153,,Option Text,
+SAY.Thief.183.小偷,,档案室里有些奇怪的声音。,Some strange noises in the next room
+SAY.Thief.184.小偷,,小心点贴着墙过去。,Sneak
+SAY.Thief.238.小偷,,我抓住了金属链子，跳上了吊灯。,I grab the metal chain and jump on the chandelier
+SAY.Thief.241.,,吊灯整个掉了下去。,The chandelier fall off
+SAY.Thief.143.,,蓝色的光芒，其中的一颗尤为炫目。它巧妙地隐藏在月光中。,One of them is particularly dazzling. It is cleverly hidden in the moonlight
+SAY.Thief.261.小偷,,太漂亮了...,Amazing
+SAY.Thief.229.小偷,,难怪一直没有人能找到！,No wonder nobody found it for a long time
+SAY.Thief.227.,,如果不是这突然的黑暗让它绽放光芒，它就像吊灯上镶嵌的一粒玻璃。,If it weren’t for the sudden darkness to make it shine
+SAY.Thief.228.小偷,,我可以用钩锁抓住吊灯的顶部,I can grab the top of the chandelier with the hook
+SAY.Thief.232.小偷,,然后跳上去摘下宝石。,and then jump up to pick up the gems
+SAY.Thief.231.小偷,,或者把吊灯整个扯下来，趁守卫聚集在下面时砸晕他们。,Or
+MENU.Thief.142,,跳上吊灯,Jump on the chandelier
+MENU.Thief.145,,让吊灯砸下去。,Let the chandelier drop
+SAY.Thief.155.,,守卫太多了，目前我无法将他们引开。,Guards are on duty. I can’t distract them at the moment
+SAY.Thief.160.小偷,,蓝色的宝石在上空闪闪发光。,The blue gem is shining
+SAY.Thief.226.,,最后看了它一眼，在守卫冲过来之前从窗户跳了出去。,...
+SAY.Thief.174.,,亲爱的弟弟，我知道你会独自来这里，不让任何人有可能偷走你的利益。,Dear brother
+SAY.Thief.200.,,至于宝石，我没有赠给别人，以防他们遭到你的黑手。,As for the gem
+SAY.Thief.201.,,就让它被掩埋在无人知道的角落好了。,
+MENU.Thief.204,,翻到背面,Turn the letter to the back
+SAY.Thief.178.,,嘭——整个图书馆瞬间暗了下来，只有幽蓝的月光从窗外溜进。,Boom——The whole library was darkened in an instant
+MENU.Thief.176,,离开房间,Sneak out the room
+SAY.Thief.188.,,翻了翻沙发。,Check the lounge
+SAY.Thief.190.,,甚么也没有,Nothing
+SAY.Thief.192.,,掀开了地毯。,Lifted the carpet
+SAY.Thief.196.,,掀开了地毯。,Lifted the carpet
+SAY.Thief.197.,,桌上似乎放着一封信。,There seems to be a letter on the table
+MENU.Thief.199,,读信,Read the Letter
+SAY.Thief.209.,,对只看得见它的财富价值的人,For those who only care about how much it is worth
+SAY.Thief.210.,,打着最亮的手电筒，也永远都找不到它。,even with the brightest flashlight
+SAY.Thief.213.小偷,,它的价值...,It's value...
+SAY.Thief.224.小偷,,最亮的手电筒...,the brightest...
+SAY.Thief.225.小偷,,似乎明白了什么。,
+MENU.Thief.212,,继续搜查书房,Continue to search in the study
+MENU.Thief.214,,离开书房,Sneak out the study
+SAY.Thief.216.,,撬开锁，贴着门缝闪进了书房中。,Prying open the lock
+SAY.Thief.279.小偷,,我感觉好像跳过了什么？,I feel like I skipped something
+SAY.MainChart.48.,,Select your preferred language\n请选择你偏好的语言,
+MENU.MainChart.47,,English,
+MENU.MainChart.52,,中文,
+MENU.MainChart.113,,Guard,
+MENU.MainChart.122,,Nurse,
+MENU.MainChart.121,,Thief,
+MENU.MainChart.124,,Ending,
+MENU.MainChart.178,,BE,
+MENU.MainChart.179,,HE,
+SAY.MainChart.151.,,几天后...,Several days past.
+SAY.MainChart.153.,,据报道，一名女子涉嫌与情夫杀害丈夫，现已失踪。,According to reports
+SAY.MainChart.208.,,小偷在守卫发现他之前从窗户溜走了。,The thief slipped through the window before the guard found him
+SAY.MainChart.209.,,可怜的护士，等待她的是更可怕的明天和无止的暴打。,Poor nurse. What awaits her is a more terrifying tomorrow and endless beatings
+SAY.MainChart.210.,,老板找不到宝石，他将图书馆拆得一干二净。所有的物品被卖到了二手市场。,The boss couldn't find the gems
+SAY.MainChart.250.,,直到有一天，一个古董商人发现了它，他用沾染着钞票气息的手指沉醉地摩挲着宝石。,Until one day
+SAY.MainChart.203.,,小偷在守卫发现他之前从窗户溜走了。,The thief slipped through the window before the guard found him
+SAY.MainChart.204.,,护士趁着守卫们争抢着宝石，摸黑逃出了图书馆。, When the guards scrambled for gems
+SAY.MainChart.207.,,其中一个幸运的家伙抢到了，他用它在还清了高利贷，过上了平静的生活。,...
+SAY.MainChart.138.,,我們在一趟尚未完成，也不會完成的旅行中。,We are on a journey that has not yet been completed and will not be completed.
+SAY.MainChart.139.,,進退不得，未來亦不可知,Can’t advance or retreat
+SAY.MainChart.272.,,在守卫发现他之前,Before the guard found him
+SAY.MainChart.269.,,小偷从窗户溜走了。,The thief slipped through the window
+SAY.MainChart.274.小偷,,今天真是不走运。,Really unlucky today
+SAY.MainChart.228.,,护士发现地上的宝石，她摘了下来，放进了口袋。,The nurse found the gem on the ground. She picked it off and put it in her pocket
+SAY.MainChart.231.,,逃出图书馆后，她将宝石送给了珠宝博物馆。{w=1s}这是另外的故事了。,She gave the gems to the Jewelry Museum after escaping from the library. {w=1s}This is another story
+SAY.MainChart.236.,,小偷在守卫发现他之前从窗户溜走了。,The thief slipped through the window before the guard found him
+SAY.MainChart.242.,,护士趁着着火时的一片混乱，摸黑逃出了图书馆。,The nurse took advantage of the chaos during the fire and escaped from the library in the dark
+SAY.MainChart.238.,,宝石在大火中和成百上千的书一起，化作了灰烬。,The gem was turned into ashes in the fire along with hundreds of books
+SAY.MainChart.243.,,小偷摘下了宝石，并用它在赌场赢了一大笔钱后，输给了对家。,The thief took the gem and used it to win a large sum of money in the casino before losing to the opponent
+SAY.MainChart.244.,,护士趁着着火时的一片混乱，摸黑逃出了图书馆。,The nurse took advantage of the chaos during the fire and escaped from the library in the dark
+SAY.MainChart.199.,,小偷摘下了宝石，并用它在赌场赢了一大笔钱后，输给了对家。,The thief took the gem and used it to win a large sum of money in the casino before losing to the opponent
+SAY.MainChart.201.,,可怜的护士，等待她的是更可怕的明天和无止的暴打。,Poor nurse
+MENU.MainChart.173,,BE G1,
+MENU.MainChart.174,,BE N2,
+MENU.MainChart.175,,BE T3,
+MENU.MainChart.176,,BE N4,
+MENU.MainChart.171,,HE T1,
+MENU.MainChart.172,,HE T2,
+MENU.MainChart.177,,TE,
+SAY.MainChart.185.,,好的,ok
+SAY.MainChart.192.,,接下来，在做出重要选择的时刻，我会给你提示,Next time you make crucial decisions I will help you
+MENU.MainChart.215,,重新开始,Restart
+MENU.MainChart.217,,不，就到这吧,No
+MENU.MainChart.289,,给我一些提示,Give me some hint!
+MENU.MainChart.291,,All the endings,
+SAY.MainChart.220.,,在这个游戏中，你做了<b>{$Count}次选择</b>,In this game
+SAY.MainChart.221.,,你的命运,Your destiny 
+SAY.MainChart.277.,,也在这里交织了,is also intertwined here
+SAY.MainChart.258.,,这是你第{$Playtime}次尝试, You have tried {$Playtime} times
+SAY.MainChart.259.,,你是否需要额外的帮助呢,Do you need extra help
+MENU.MainChart.260,,需要,Yes
+MENU.MainChart.261,,不需要,No
+MENU.MainChart.264,,开始,Start
+MENU.MainChart.266,,快速通道,x_x
+SAY.MainChart.283.克洛托,,可以给你一些提示,I can give you some hints
+MENU.MainChart.288,,Option Text,
+SAY.MainChart.286.克洛托,,或许你可以试着帮助护士，她会保护宝石,Maybe you can try to help the nurse--she will protect the gem
+MENU.MainChart.290,,重新开始,Restart
+SAY.Nurse.16.护士,,咳咳咳...,Oh
+SAY.Nurse.22.护士,,身上的淤青还有些疼,The bruise on my body is still a bit painful
+SAY.Nurse.39.护士,,房间里空空如也， 能搜的都被洗劫一了。,The room was empty
+SAY.Nurse.174.护士,,这个家伙好像生病了，或是中了毒,This guy seems to be sick or poisoned
+SAY.Nurse.173.护士,,他进来了！,He came in!
+MENU.Nurse.48,,按兵不动,Stand still
+MENU.Nurse.49,,在门后偷袭,Sneak attack behind the door
+SAY.Nurse.77.,,声音引来了楼下其他的守卫，又将我揍了一顿，我的伤更重了。,The sound drew other guards downstairs--Oh no!
+SAY.Nurse.74.,,他摔倒了！,He fell to the floor
+SAY.Nurse.68.护士,,我所知道的可行的出口只有一层的后门。,The only possible exit I know is a back door
+SAY.Nurse.70.护士,,但是如果从唯一的楼梯走，需要绕道对面，很有可能中途被发现。,But if I go downdtairs from the opposite side
+SAY.Nurse.69.护士,,我应该如何选择——,What should I do
+MENU.Nurse.66,,从二楼跳下,Jumped down
+MENU.Nurse.67,,绕道去楼梯,Detour to the stairs
+SAY.Nurse.61.护士,,"""砰——"" 我重重地撞在了什么东西上。",Bang—I hit something hard
+SAY.Nurse.63.护士,,我无法确定，什么时候守卫会朝这边走来，甚至是走上楼梯。,I'm not sure when the guards will step here
+SAY.Nurse.64.护士,,我陷入了进退两难。,I'm in a dilemma
+SAY.Nurse.238.护士,,再不走可能就被打得没命了。走你——,I might be in danger if I don't leave. Fire in the hole
+SAY.Nurse.84.护士,,不能让他发出声音，引来其他守卫。,Don’t let him make a sound to attract other guards
+SAY.Nurse.164.护士,,我集中用力击打他的要害，他终于晕了过去,I hit his vitals and he finally fainted
+SAY.Nurse.165.护士,,翻了翻这个家伙的外套，从口袋里找到一个打火机。,I flipped through this guy’s jacket and found a lighter in his pocket
+SAY.Nurse.88.,,几分钟后——,After a few minutes
+SAY.Nurse.86.护士,,我要找个能走的出口。,I'm looking for a way to go
+SAY.Nurse.233.护士,,他们似乎发现了什么，在看着吊灯？,They seem to find something
+SAY.Nurse.235.护士,,趁他们转移了注意力，我可以溜了。,I can slip away while they are distracted
+SAY.Nurse.234.护士,,好重的酒味。,Smells like alcohol
+SAY.Nurse.236.护士,,如果能点燃，就能制造混乱，趁机离开。,If it can be ignited
+SAY.Nurse.237.护士,,我实在不忍心让这些藏书消失在火海，还是算了吧。,I really can’t bear to let these books disappear into the fire
+SAY.Nurse.171.,,趴在门口，你从门下方的缝看到一双守卫的皮靴。,You see a pair of guard boots from the seam under the door
+SAY.Nurse.242.,,他晃晃悠悠地,He walked slowly
+MENU.Nurse.175,,继续观察,keep an eye on
+SAY.Nurse.214.,,等待了几分钟。,Wait a few minutes
+SAY.Nurse.217.不重要的守卫 B,,嘿，你们看上面，好像有什么东西在发光。,Hey
+SAY.Nurse.219.不重要的守卫 B,,难道是...{w=1s}是那块石头！,That's the gem
+SAY.Nurse.220.,,守卫们蜂拥上了二楼。,The guards flocked to the second floor
+SAY.Nurse.223.,,趁这个空挡，正好可以从后门溜出去。,Now I can just sneak out through the back door
+SAY.Nurse.221.,,{w=1s} 好像有个影子从楼上闪过。或许是看错了。,There seemed to be a shadow flashing upstairs. Maybe I'm dazzled
+MENU.Nurse.202,,投掷打火机,Throw the lighter to the table
+MENU.Nurse.203,,收起打火机,Put away the lighter
+SAY.Nurse.246.护士,,我用双手撑住上半身，从地板上爬了起来,I supported my upper body with my hands and got up from the floor
+SAY.Nurse.247.护士,,我被关在这里，都是因为有人想要得到一块宝石,I’m locked here because someone wants a gem
+SAY.Nurse.249.护士,,据说它笼罩着神奇的蓝色光芒，像月光一样，传闻都说是无价之宝。,It is said that it emits a beautiful blue light--like moonlight. People think it is virtually priceless.
+SAY.Nurse.251.护士,,这个图书馆本来属于我的上一任雇主。,This library originally belonged to my previous employer
+SAY.Nurse.253.护士,,他去世之前，我是他的护士，也是他唯一能接触的朋友。,Before he passed away
+SAY.Nurse.255.护士,,他的弟弟，一个铁公鸡，老恶棍在他病逝前软禁了他,His brother--a miser
+SAY.Nurse.256.护士,,他以为去世前，老头子把藏宝地点告诉了我，甚至他怀疑就在我手里,He thought that before he died，the old man told me where the gem is hidden or even it has been given to me.
+SAY.Nurse.257.护士,,我对什么宝石没有兴趣，我只想逃出这里,I am not interested in any gems. I just want to escape here
+MENU.Nurse.270,,检查门口,Check the door
+MENU.Nurse.271,,检查房间,Check the room
+SAY.Nurse.278.护士,,我感觉好像跳过了什么？,I feel like I skipped something
+SAY.Nurse.281.护士,,我感觉好像跳过了什么？,I feel like I skipped something
+SAY._CommandCopyBuffer.228.守卫,,有人传染给了她，而且他也是一个守卫。,
+CHARACTER.,,,
+CHARACTER.守卫,守卫,守卫,Guard
+CHARACTER.Wife,,Wife,
+CHARACTER.GEM,,GEM,Gem
+CHARACTER.小偷,,小偷,Thief
+CHARACTER.护士,,护士,Nurse
+CHARACTER.Items,,Items,
+CHARACTER.Mr Neilson,内尔森，宝石的主人,Mr Neilson,
+CHARACTER.Neison,,Neison,
+CHARACTER.不重要的守卫 B,和守卫聊天的路人,不重要的守卫 B,
+CHARACTER.Lady Lily,"A young woman, rich, ",Lady Lily,
+CHARACTER.Fred,抢了功劳，与守卫妻子偷情的家伙,Fred,
+CHARACTER.克洛托,,克洛托,Clotho
